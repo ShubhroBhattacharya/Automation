@@ -1,1 +1,1 @@
-# QA-Automation
+# UI Automation Project
